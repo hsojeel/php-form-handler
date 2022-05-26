@@ -3,6 +3,7 @@
     <title>World's Smallest Form Handler</title>
   </head>
   <body>
+<<<<<<< HEAD
     <h1>World's Smallest Form Handler</h1>
   <?php
   if(isset($_POST["FirstName"])){ // show data
