@@ -8,5 +8,8 @@
     echo '<p>This is PHP!</p>';
     ?>
     <p>Who's a goofy goober yeah</p>
+    <?php
+    echo '<p>This is a change from replit</p>';
+    ?>
   </body>
 </html>
